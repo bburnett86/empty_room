@@ -1,0 +1,2 @@
+class BluefestController < ApplicationController
+end
